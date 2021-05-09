@@ -1,5 +1,6 @@
+package com.echec.game;
+
 import java.util.Date;
-import classes;
 
 public class Historique {
 
